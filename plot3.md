@@ -17,7 +17,7 @@ See below example of its execution...
 2015-11-08 15:17:46 Plot generated! plot3.png
 ```
 
-![plot3.png](https://raw.githubusercontent.com/feamcor/ExData_Plotting1/master/plot2.png "Plot 3")
+![plot3.png](https://raw.githubusercontent.com/feamcor/ExData_Plotting1/master/plot3.png "Plot 3")
 
 ---
 By [feamcor](https://github.com/feamcor).
