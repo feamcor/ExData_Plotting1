@@ -8,6 +8,14 @@
 
 rm(list = ls())
 source("install_dependencies.R")
+
+#
+# ATTENTION!
+#
+# Considering that the dataset for all plot scripts is the same,
+# please refer to the generic script below in order to understand
+# how the dataset is downloaded, unzipped, read and modified accordingly.
+#
 source("get_dataset.R")
 
 # install_dependencies("???")
